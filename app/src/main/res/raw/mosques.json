@@ -1,0 +1,27 @@
+[
+
+    {
+      "id":0,
+      "name": "Kerho ja Islamilainen Yhdyskunta",
+      "address": "Kalastajanmäki 13 D,02230, Espoo",
+      "phone": "09-8881823",
+      "email": "lemky_ry@hotmail.com",
+      "language": "Suomea ja somali"
+    },
+    {
+      "id":1,
+      "name": "Islamic Multicultural Dawa Center",
+      "address": "Munkkiniemen puistotie 4 HELSINKI",
+      "phone": "09-8881823",
+      "email": "imaninfo@welho.com",
+      "language": "Arabiaa, englantia ja bosniaa"
+    },
+    {
+      "id":2,
+      "name": "Al-rahma [The Islamic rahma center]",
+      "address": "Kastelholmantie 2b HELSINKI",
+      "phone": "093433100 or +358 9 643579",
+      "email": "rahmacenter@hotmail.com",
+      "language": "Arabia, suomea, somali, ja englantia"
+    }
+  ]
