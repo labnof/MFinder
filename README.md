@@ -1,3 +1,3 @@
 # MFinder
 
-This is a Geolocational App that help Muslims find mosques in Finland. 
+This is a Geolocational App Finland. 
